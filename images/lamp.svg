@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="100px" viewBox="0 0 76 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>lamp</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-485.000000, -1.000000)">
+        <g id="lamp" transform="translate(485.000000, 1.000000)" fill-rule="nonzero">
+            <rect id="Rectangle-path" fill="#000000" x="36.44" y="0" width="3.13" height="31.25"></rect>
+            <path d="M34.88,35.16 L41.13,35.16 C41.7991429,35.1591843 42.4674963,35.205969 43.13,35.3 L43.13,32.81 L32.92,32.81 L32.92,35.29 C33.5695201,35.2011876 34.22444,35.157749 34.88,35.16 Z" id="Shape" fill="#000000"></path>
+            <path d="M56.8400004,50.78 L19.1599996,50.78 C7.60637685,57.488536 0.497259093,69.8399611 0.499998417,83.2 L75.5000016,83.2 C75.5027409,69.8399611 68.3936232,57.488536 56.8400004,50.78 Z" id="Shape" fill="#000000"></path>
+            <path d="M34.87,36.72 L41.12,36.72 C48.0235594,36.72 53.62,42.3164406 53.62,49.22 L22.38,49.22 C22.3799978,42.320344 27.9703462,36.7255197 34.87,36.72 Z" id="Shape" fill="#000000"></path>
+            <path d="M30,86 L44,86 L44,93 C44,96.8659932 40.8659932,100 37,100 C33.1340068,100 30,96.8659932 30,93 L30,86 Z" id="Shape" fill="#FFD500"></path>
+        </g>
+    </g>
+</svg>

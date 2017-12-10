@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="957px" height="516px" viewBox="0 0 957 516" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="44.807985%" gradientTransform="translate(0.500000,0.500000),scale(0.839286,1.000000),rotate(-90.000000),scale(1.000000,0.836490),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#F0FAFF" offset="0%"></stop>
+            <stop stop-color="#C8EBFC" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="90.3613462%" cy="13.7000861%" fx="90.3613462%" fy="13.7000861%" r="87.9052877%" gradientTransform="translate(0.903613,0.137001),scale(1.000000,0.713814),rotate(124.432254),scale(1.000000,0.398489),translate(-0.903613,-0.137001)" id="radialGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#C8EBFC" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="90.3613462%" cy="13.7000861%" fx="90.3613462%" fy="13.7000861%" r="87.9052877%" gradientTransform="translate(0.903613,0.137001),scale(0.627265,1.000000),rotate(146.850093),scale(1.000000,0.398489),translate(-0.903613,-0.137001)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#C8EBFC" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-40.000000, -9.000000)">
+        <g id="background" transform="translate(0.000000, -12.000000)">
+            <rect id="Background-glow" fill="url(#radialGradient-1)" x="413" y="11" width="224" height="188"></rect>
+            <path d="M497.891008,100.867734 L202,436.922329 L336.423298,537 C424.266324,353.72816 481.196257,226.955854 507.213097,156.683083 C533.229937,86.4103111 530.122574,67.805195 497.891008,100.867734 Z" id="ray" fill="url(#radialGradient-2)" opacity="0.25"></path>
+            <path d="M820.891008,100.867734 L525,436.922329 L659.423298,537 C747.266324,353.72816 804.196257,226.955854 830.213097,156.683083 C856.229937,86.4103111 853.122574,67.805195 820.891008,100.867734 Z" id="ray" fill="url(#radialGradient-2)" opacity="0.25" transform="translate(686.321928, 311.000000) scale(-1, 1) translate(-686.321928, -311.000000) "></path>
+            <path d="M484.45836,95.6721045 L40,321.691124 L241.917452,389 C373.866603,265.737524 459.381147,180.474734 498.461084,133.211631 C537.541022,85.9485278 532.873447,73.4353524 484.45836,95.6721045 Z" id="ray" fill="url(#radialGradient-3)" opacity="0.25"></path>
+            <path d="M956.45836,95.6721045 L512,321.691124 L713.917452,389 C845.866603,265.737524 931.381147,180.474734 970.461084,133.211631 C1009.54102,85.9485278 1004.87345,73.4353524 956.45836,95.6721045 Z" id="ray" fill="url(#radialGradient-3)" opacity="0.25" transform="translate(754.321928, 237.000000) scale(-1, 1) translate(-754.321928, -237.000000) "></path>
+        </g>
+    </g>
+</svg>
